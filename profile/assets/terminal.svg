@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="160" viewBox="0 0 600 160">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#6a3cff"/><stop offset="1" stop-color="#00c8ff"/></linearGradient></defs>
+<rect x="1" y="1" width="598" height="158" rx="12" fill="#0a0c1a" stroke="url(#g)" stroke-width="2"/>
+<path d="M1,13 a12,12 0 0 1 12,-12 h574 a12,12 0 0 1 12,12 v21 h-598z" fill="#14172b"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+<text x="300" y="23" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b93b8">STC·OS terminal</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="18"><text x="22" y="72"><tspan fill="#00c8ff">stc@os</tspan><tspan fill="#fff">:</tspan><tspan fill="#8a5cff">~</tspan><tspan fill="#fff">$ </tspan><tspan fill="#e6ecff">launch --mission orbit</tspan></text>
+<text x="22" y="102" fill="#28c840" font-size="15">✓ telemetry link established · all systems nominal</text>
+<text x="22" y="136"><tspan fill="#00c8ff">stc@os</tspan><tspan fill="#fff">:</tspan><tspan fill="#8a5cff">~</tspan><tspan fill="#fff">$</tspan></text></g>
+<rect x="110" y="121" width="11" height="20" fill="#00c8ff"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></rect></svg>
